@@ -1,5 +1,5 @@
 #
-# This constraints file was automatically generated on 2021-11-08T20:58:51Z
+# This constraints file was automatically generated on 2021-11-08T20:58:54Z
 # via "eager-upgrade" mechanism of PIP. For the "main" branch of Airflow.
 # This variant of constraints install uses the HEAD of the branch version for 'apache-airflow' but installs
 # the providers from PIP-released packages at the moment of the constraint generation.
@@ -137,6 +137,7 @@ asana==0.10.3
 asn1crypto==1.4.0
 astroid==2.8.4
 async-timeout==4.0.0
+asynctest==0.13.0
 atlasclient==1.0.0
 attrs==20.3.0
 avro-python3==1.9.2.1
@@ -176,6 +177,7 @@ boto3==1.18.65
 boto==2.49.0
 botocore==1.21.65
 bowler==0.9.0
+cached-property==1.5.2
 cachetools==4.2.2
 cassandra-driver==3.25.0
 cattrs==1.5.0
@@ -225,7 +227,7 @@ fastavro==1.4.7
 filelock==3.3.2
 fissix==21.6.6
 flake8-colors==0.1.9
-flake8==4.0.1
+flake8==3.9.2
 flaky==3.7.0
 flower==1.0.0
 freezegun==1.1.0
@@ -400,7 +402,7 @@ pure-sasl==0.6.2
 py4j==0.10.9.2
 py==1.11.0
 pyOpenSSL==20.0.1
-pyarrow==4.0.1
+pyarrow==5.0.1
 pyasn1-modules==0.2.8
 pyasn1==0.4.8
 pycodestyle==2.8.0
@@ -413,7 +415,7 @@ pydot==1.4.2
 pydruid==0.6.2
 pyenchant==3.2.2
 pyexasol==0.21.1
-pyflakes==2.4.0
+pyflakes==2.3.1
 pykerberos==1.2.1
 pymongo==3.12.1
 pymssql==2.2.2
@@ -477,7 +479,7 @@ smmap==5.0.0
 snakebite-py3==3.0.5
 sniffio==1.2.0
 snowballstemmer==2.1.0
-snowflake-connector-python==2.6.2
+snowflake-connector-python==2.7.0
 snowflake-sqlalchemy==1.2.4
 sortedcontainers==2.4.0
 soupsieve==2.3
